@@ -1,0 +1,41 @@
+C:\Users\user\Desktop\DO AN\DO AN\bin\Debug\DO AN.exe.config
+C:\Users\user\Desktop\DO AN\DO AN\bin\Debug\DO AN.exe
+C:\Users\user\Desktop\DO AN\DO AN\bin\Debug\DO AN.pdb
+C:\Users\user\Desktop\DO AN\DO AN\obj\Debug\DO AN.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\DO AN\DO AN\obj\Debug\DO AN.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\DO AN\DO AN\obj\Debug\DO_AN.Properties.Resources.resources
+C:\Users\user\Desktop\DO AN\DO AN\obj\Debug\DO AN.csproj.GenerateResource.cache
+C:\Users\user\Desktop\DO AN\DO AN\obj\Debug\DO AN.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\DO AN\DO AN\obj\Debug\DO AN.exe
+C:\Users\user\Desktop\DO AN\DO AN\obj\Debug\DO AN.pdb
+C:\Users\user\Desktop\DO AN\DO AN\obj\Debug\DO_AN.Form1.resources
+C:\Users\user\Desktop\DO AN\DO AN\obj\Debug\DO_AN.KhachHang.resources
+C:\Users\user\Desktop\DO AN\DO AN\obj\Debug\DO_AN.KH.resources
+C:\Users\user\Desktop\DO AN\DO AN\obj\Debug\DO_AN.Menu.resources
+C:\Users\user\Desktop\DO AN\DO AN\obj\Debug\DO_AN.Form5.resources
+C:\Users\user\Desktop\DO AN\DO AN\obj\Debug\DO_AN.Cau4.resources
+C:\Users\user\Desktop\DO AN\DO AN\obj\Debug\DO_AN.Cau05.resources
+C:\Users\user\Desktop\DO AN\DO AN\obj\Debug\DO_AN.HoaDonNhap.resources
+C:\Users\user\Desktop\DO AN\DO AN\obj\Debug\DO_AN.SearchForm.resources
+C:\Users\user\Desktop\DO AN\DO AN\bin\Debug\EPPlus.dll
+C:\Users\user\Desktop\DO AN\DO AN\bin\Debug\EPPlus.Interfaces.dll
+C:\Users\user\Desktop\DO AN\DO AN\bin\Debug\EPPlus.System.Drawing.dll
+C:\Users\user\Desktop\DO AN\DO AN\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\user\Desktop\DO AN\DO AN\bin\Debug\System.Buffers.dll
+C:\Users\user\Desktop\DO AN\DO AN\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\user\Desktop\DO AN\DO AN\bin\Debug\System.Memory.dll
+C:\Users\user\Desktop\DO AN\DO AN\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\user\Desktop\DO AN\DO AN\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\user\Desktop\DO AN\DO AN\bin\Debug\EPPlus.xml
+C:\Users\user\Desktop\DO AN\DO AN\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\user\Desktop\DO AN\DO AN\bin\Debug\System.Buffers.xml
+C:\Users\user\Desktop\DO AN\DO AN\bin\Debug\System.Memory.xml
+C:\Users\user\Desktop\DO AN\DO AN\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\user\Desktop\DO AN\DO AN\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\user\Desktop\DO AN\DO AN\obj\Debug\DO AN.csproj.CopyComplete
+C:\Users\user\Desktop\DO AN\DO AN\obj\Debug\DO_AN.DangNhap.resources
+C:\Users\user\Desktop\DO AN\DO AN\obj\Debug\DO_AN.giaodien.resources
+C:\Users\user\Desktop\DO AN\DO AN\obj\Debug\DO_AN.Main.resources
+C:\Users\user\Desktop\DO AN\DO AN\obj\Debug\DO_AN.Nhanvien.resources
+C:\Users\user\Desktop\DO AN\DO AN\obj\Debug\DO_AN.QuenTKMK.resources
+C:\Users\user\Desktop\DO AN\DO AN\obj\Debug\DO_AN.Taomatkhaumoi.resources
